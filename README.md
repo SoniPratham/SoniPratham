@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoniPratham
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m collaborating in Charuvidya: E-Learing
 - 📫 How to reach me pksoni157@gmail.com
 
 <!---
