@@ -1,8 +1,8 @@
 <h1 align="center">Hello Guys 👋, It's me Soni</h1>
-<h3 align="justify">I have developed their skills in web development, NLP, and DevOps through various projects, including a smart assistant that uses Flask API to connect NLP and the frontend. I am currently working on a project for Charuvidya that utilizes Spring Boot and ReactJS, demonstrating their teamwork skills and ability to work under pressure. I also have extensive knowledge of DevOps tools .I have Secured 1st runner-up in the code pie 3.0, highlighting my ability to perform under pressure and deliver results.!✨</h3>
+<h3 align="justify">I have developed my skills in web development, NLP, and DevOps through various projects, including a smart assistant that uses Flask API to connect NLP and the frontend. I am currently working on a project for Charuvidya that utilizes Spring Boot and ReactJS, demonstrating my teamwork skills and ability to work under pressure. I also have extensive knowledge of DevOps tools .I have Secured 1st runner-up in the code pie 3.0, highlighting my ability to perform under pressure and deliver results.!✨</h3>
 <br />
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
   
 - 🌱 I’m currently learning **Spring Boot, ReactJS, Android, DevOps**
 
@@ -24,6 +24,7 @@
 <a href="https://leetcode.com/SoniPrathamK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jimmy0915" height="30" width="40" /></a>
 </p>
 <br />
+
 <h3 align="left">Languages & Framworks:</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -33,15 +34,14 @@
 <code><img height="40" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_9d63a0ed04b871d3dacc8647b7f0927d/spring-boot.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<br/>
-
-<h3 align="left">Tools:</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></code>
-<code><img height="40" src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png"></code>
+<code><img height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png"></code>
 <code><img height="40" src="https://toppng.com/uploads/preview/jira-software-logo-jira-software-logo-11562914188wp8r59nt10.png"></code>
-<br/>
+
+<br />
+<br />
 
 <h3 align="left">📈 My GitHub Stats</h3>
 
