@@ -39,6 +39,6 @@
 
 <div align="center">
   <img height="180px" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SoniPratham&show_icons=true&locale=en&layout=compact" alt="SoniPratham"/>  
-  <img height="180px" weight="300px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SoniPratham&show_icons=true&locale=en" alt="SoniPratham" />
+  <img height="180px" weight="300px" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SoniPratham&show_icons=true&locale=en" alt="SoniPratham" />
   <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoniPratham&" alt="SoniPratham" />
 </div>
