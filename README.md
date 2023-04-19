@@ -2,7 +2,8 @@
 <h3 align="justify">I have developed their skills in web development, NLP, and DevOps through various projects, including a smart assistant that uses Flask API to connect NLP and the frontend. I am currently working on a project for Charuvidya that utilizes Spring Boot and ReactJS, demonstrating their teamwork skills and ability to work under pressure. I also have extensive knowledge of DevOps tools .I have Secured 1st runner-up in the code pie 3.0, highlighting my ability to perform under pressure and deliver results.!✨</h3>
 <br />
 <br />
-<img align="right" alt="GIF" src="assets/programmer.gif" width="50%" />
+
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="50%" />
 
 - 🌱 I’m currently learning **Spring Boot, ReactJS, Android, DevOps**
 
