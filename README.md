@@ -1,10 +1,9 @@
 <h1 align="center">Hello Guys 👋, It's me Soni</h1>
 <h3 align="justify">I have developed their skills in web development, NLP, and DevOps through various projects, including a smart assistant that uses Flask API to connect NLP and the frontend. I am currently working on a project for Charuvidya that utilizes Spring Boot and ReactJS, demonstrating their teamwork skills and ability to work under pressure. I also have extensive knowledge of DevOps tools .I have Secured 1st runner-up in the code pie 3.0, highlighting my ability to perform under pressure and deliver results.!✨</h3>
 <br />
-<br />
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="500" height="320" />
-
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 - 🌱 I’m currently learning **Spring Boot, ReactJS, Android, DevOps**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/SoniPratham?tab=repositories)
@@ -16,9 +15,6 @@
 - 💬 Ask me about anything tech related, I am happy to help
 
 - ⚡ Fun fact **I ❤️ 👨‍💻**
-
-<br />
-<br />
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,9 +23,7 @@
 <a href="https://www.hackerrank.com/d21it173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="20it120" height="30" width="40" /></a>
 <a href="https://leetcode.com/SoniPrathamK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jimmy0915" height="30" width="40" /></a>
 </p>
-
 <br />
-
 <h3 align="left">Languages & Framworks:</h3>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -46,7 +40,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"></code>
 <code><img height="40" src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png"></code>
-<code><img height="40" src="https://www.liblogo.com/img-logo/ji1432je12-jira-software-logo-jira-customer-issue-and-query-communciation-.png"></code>
+<code><img height="40" src="https://toppng.com/uploads/preview/jira-software-logo-jira-software-logo-11562914188wp8r59nt10.png"></code>
 <br/>
 
 <h3 align="left">📈 My GitHub Stats</h3>
